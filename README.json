@@ -1,0 +1,15 @@
+{
+  "name": "zcore-zircon-user",
+  "description": "User programs for zCore/Zircon",
+  "authors": [{
+    "name": "Runji Wang",
+    "email": "wangrunji0408@163.com"
+  }, {
+    "name": "Luoyuan Xiao",
+    "email": "xiaoluoyuan@163.com"
+  }],
+  "keywords": ["zcore", "zircon", "user"],
+  "repo": "kern-crates/zcore-zircon-user",
+  "test_repos": ["https://github.com/kern-crates/zCore.git"],
+  "doc_url": "https://github.com/kern-crates/zCore/blob/main/README.md"
+}
